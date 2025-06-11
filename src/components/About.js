@@ -31,7 +31,7 @@ export default function About() {
 		<main className='relative'>
 			<img
 				src={aboutImage}
-				alt='about image'
+				alt='travel is good'
 				className='absolute w-full'
 			/>
 			<div className='p-10 lg:pt-48 container mx-auto relative'>
