@@ -12,6 +12,7 @@ This is a travel blog web app built with **React** and **Sanity CMS**.
 
 # Clone the repo
 git clone https://github.com/yourname/travel-blog.git
+
 cd travel-blog
 
 # Install dependencies
